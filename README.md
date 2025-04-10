@@ -1,8 +1,6 @@
 <h1>Hi there 👋<h1>
-
-Here are some ideas to get you started:
-
-<p>- 🌱 I’m currently learning Html,Javascript,Php, and Css.
+<p>My Name is kyle matthew S. MAgnaye. I'm 14 years old in 2025 and i am going to be turning 15 this coming May 26th, 2025.</p>
+<p>- 🌱 I’m currently learning Html,Javascript,Php, and Css.</p>
 
   
 - 🤔 I’m looking for help with ...
