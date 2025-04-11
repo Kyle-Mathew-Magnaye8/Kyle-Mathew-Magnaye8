@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-mathew-magnaye8" alt="kyle-mathew-magnaye8" /></a> </p>
 
-- 🔭 I’m currently working on **Phaser#3, creating 90s games.**
+- 🔭 I’m currently working on [Phaser#3, creating 90s games.](MTHS-ICD2O-1-2024.github.io/ICD2O-Phaser3-Space-Aliens-Kyle-Mathew-Magnaye8)
 
 - 🌱 I’m currently learning **PHP coding, and creating games that are simple to play.**
 
@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/kyle matthew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle matthew" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kyle magnaye/@kylemagnaye3685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyle magnaye/@kylemagnaye3685" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
