@@ -9,6 +9,9 @@
 
 - 🌱 I’m currently learning **PHP coding, and creating games that are simple to play.**
 
+- my projects: [ICD2O-Unit-3-04-Kyle-Mathew-Magnaye8](https://github.com/Kyle-Mathew-Magnaye8/ICD2O-Unit-3-04-Kyle-Mathew-Magnaye8)
+- ICD2O-Intro-03-Kyle-Mathew-Magnaye8 (https://github.com/Kyle-Mathew-Magnaye8/ICD2O-Intro-03-Kyle-Mathew-Magnaye8)
+
 - 📫 How to reach me **kyle.matthew.magnaye@stu.ocsb.ca**
 
 - ⚡ Fun fact **I like to play the piano when i'm board.🎶**
